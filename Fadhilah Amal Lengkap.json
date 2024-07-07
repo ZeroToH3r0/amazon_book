@@ -143,7 +143,7 @@
     }
   ],
    "More": [
-  //   {
+    {
   //     "id": 22,
   //     "title": "Caffe Music Player",
   //     "image": "https://github.com/ZeroToH3r0/ud04brar/raw/main/icon.webp",
@@ -290,20 +290,20 @@
   //     "link": "https://"
   //     // "link": "https://"
   //   },
-  //   {
-  //     "id": 20,
-  //     "title": "Lagu Islami Penyejuk Hati",
-  //     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglNXSAHViD6B5Qc4t_d3l2bXKrUuwTzzBhlWuPG7oXzTO5hVTGcdRBHKDlsbscse0yBPUXmFSN43HKkJh65OBWoC-F3Qroo1lL3TavQ2v8y82UbRrnBMCjIWqSghnsluOEKXpplEm0xqon_PY_UfxxVXnYl7fU-oafOE-I7-46bZiEAAcu0MMYp9_j4ION/s320/logo.webp",
-  //     "link": "https://"
-  //     // "link": "https://"
-  //   }
-  // ],
-  // "Categories": [
-  //   {
-  //     "id": 1,
-  //     "name_category": "Fadhilah Amal",
-  //     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBHqwswH03AtCprCFgUUb8GP0-aVi238vgWsbPXpBgUg6n7YyneA7EEQWsyJPQfOKaa7cnhfrJE41_yi-bEzUjUmYLjNaF9n_eLaM76hkfUBZn6uf5zL_eLvjJiNdhSB7kiLsBfrYxW-ICxOb2F6eSFSoIxxjDtwS63kKQt7E5WaGOMjMw0YqtOK80cqG-/s16000/app.webp"
-  //   }
+    // {
+      // "id": 20,
+      // "title": "Lagu Islami Penyejuk Hati",
+      // "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglNXSAHViD6B5Qc4t_d3l2bXKrUuwTzzBhlWuPG7oXzTO5hVTGcdRBHKDlsbscse0yBPUXmFSN43HKkJh65OBWoC-F3Qroo1lL3TavQ2v8y82UbRrnBMCjIWqSghnsluOEKXpplEm0xqon_PY_UfxxVXnYl7fU-oafOE-I7-46bZiEAAcu0MMYp9_j4ION/s320/logo.webp",
+      // "link": "https://"
+      // "link": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Fadhilah Amal",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBHqwswH03AtCprCFgUUb8GP0-aVi238vgWsbPXpBgUg6n7YyneA7EEQWsyJPQfOKaa7cnhfrJE41_yi-bEzUjUmYLjNaF9n_eLaM76hkfUBZn6uf5zL_eLvjJiNdhSB7kiLsBfrYxW-ICxOb2F6eSFSoIxxjDtwS63kKQt7E5WaGOMjMw0YqtOK80cqG-/s16000/app.webp"
+    }
   ],
   
   "Data": [ 
